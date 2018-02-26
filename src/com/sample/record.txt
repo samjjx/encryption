@@ -1,0 +1,108 @@
+dataset/test.txt Scc eliminated
+6
+Cont:2ms
+dataset/test.txt finished
+dataset/p2p-Gnutella04.txt Scc eliminated
+6560
+Cont:2275ms
+dataset/p2p-Gnutella04.txt finished
+dataset/p2p-Gnutella05.txt Scc eliminated
+5613
+Cont:2368ms
+dataset/p2p-Gnutella05.txt finished
+dataset/p2p-Gnutella06.txt Scc eliminated
+5492
+Cont:1269ms
+dataset/p2p-Gnutella06.txt finished
+dataset/p2p-Gnutella08.txt Scc eliminated
+4234
+Cont:5207ms
+dataset/p2p-Gnutella08.txt finished
+dataset/p2p-Gnutella09.txt Scc eliminated
+5491
+Cont:6882ms
+dataset/p2p-Gnutella09.txt finished
+dataset/p2p-Gnutella24.txt Scc eliminated
+20167
+Cont:12990ms
+dataset/p2p-Gnutella24.txt finished
+dataset/p2p-Gnutella25.txt Scc eliminated
+17535
+Cont:11108ms
+dataset/p2p-Gnutella25.txt finished
+dataset/p2p-Gnutella30.txt Scc eliminated
+28193
+Cont:31194ms
+dataset/p2p-Gnutella30.txt finished
+dataset/p2p-Gnutella31.txt Scc eliminated
+48438
+Cont:374571ms
+dataset/p2p-Gnutella31.txt finished
+dataset/Wiki-Vote.txt Scc eliminated
+5816
+Cont:6958ms
+dataset/Wiki-Vote.txt finished
+dataset/Amazon0302.txt Scc eliminated
+6594
+Cont:1279ms
+dataset/Amazon0302.txt finished
+dataset/Cit-HepPh.txt Scc eliminated
+21608
+Cont:192046ms
+dataset/Cit-HepPh.txt finished
+dataset/Cit-HepTh.txt Scc eliminated
+20086
+Cont:610856ms
+dataset/Cit-HepTh.txt finished
+dataset/web-BerkStan.txt Scc eliminated
+109406
+Cont:2482821ms
+dataset/web-BerkStan.txt finished
+dataset/soc-Epinions1.txt Scc eliminated
+42176
+Cont:46496ms
+dataset/soc-Epinions1.txt finished
+dataset/Email-EuAll.txt Scc eliminated
+231000
+Cont:3456013ms
+dataset/Email-EuAll.txt finished
+dataset/web-Google.txt Scc eliminated
+371764
+Cont:19502393ms
+dataset/web-Google.txt finished
+dataset/web-NotreDame.txt Scc eliminated
+203609
+Cont:3994814ms
+dataset/web-NotreDame.txt finished
+dataset/Amazon0312.txt Scc eliminated
+13292
+Cont:2453ms
+dataset/Amazon0312.txt finished
+dataset/Amazon0505.txt Scc eliminated
+13928
+Cont:1447ms
+dataset/Amazon0505.txt finished
+dataset/Amazon0601.txt Scc eliminated
+1588
+Cont:64ms
+dataset/Amazon0601.txt finished
+dataset/soc-sign-Slashdot081106.txt Scc eliminated
+49216
+Cont:51120ms
+dataset/soc-sign-Slashdot081106.txt finished
+dataset/soc-sign-Slashdot090216.txt Scc eliminated
+53482
+Cont:102941ms
+dataset/soc-sign-Slashdot090216.txt finished
+dataset/soc-sign-Slashdot090221.txt Scc eliminated
+53603
+Cont:81001ms
+dataset/soc-sign-Slashdot090221.txt finished
+dataset/soc-Epinions1.txt Scc eliminated
+42176
+Cont:43406ms
+dataset/soc-Epinions1.txt finished
+dataset/Slashdot0902.txt Scc eliminated
+10559
+Cont:480ms
+dataset/Slashdot0902.txt finished
